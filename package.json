@@ -1,0 +1,12 @@
+{
+  "name": "CuraHealthcare",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^12.6.0"
+  },
+  "scripts": {
+    "cyopen": "cypress open"
+  }
+}
